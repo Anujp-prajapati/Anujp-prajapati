@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anuj Prajapati</h1>
 <h3 align="center">A computer science student</h3>
 
+## 💫 About Me:
+👨‍💻 Currently working on Data Science projects<br>✍️ Currently learning Data Science<br>📧 Reach me : Anujprajapati3463@gmail.com<br><br>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anujprajapati011) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj_prajapati01) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anuj-prajapati-6ab403230) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Anujpra34888192) 
 

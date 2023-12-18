@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Prajapati</h1>
 <h3 align="center">A computer science student</h3>
 
+
 ## 💫 About Me:
 👨‍💻 Currently working on Data Science projects<br>✍️ Currently learning Data Science<br>📧 Reach me : Anujprajapati3463@gmail.com<br><br>
 
